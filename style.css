@@ -1,0 +1,89 @@
+h1 {
+    font-family: 'Tilt Prism', cursive;
+}
+
+.parte1 {
+    background-color: #a40606;
+    background-image: linear-gradient(315deg, #a40606 0%, #d98324 74%);
+margin: 0px;
+
+}
+
+.parte2 {
+    background-color: #378b29;
+    background-image: url(./page2/8516-universo.jpg);
+}
+
+.parrafo {
+    color: aliceblue;
+    margin-right: 20px;
+    font-family: 'Noto Sans JP', sans-serif;
+    font-family: 'Rubik Pixels', cursive;
+    font-family: 'Sedgwick Ave Display', cursive;
+    font-family: 'Tilt Prism', cursive;
+margin: 20px;
+}
+
+.parte2 {
+    margin: 10px;
+}
+
+.par2 {
+    color: bisque;
+    margin-right: 0px;
+    display: flex;
+    font-family: 'Sedgwick Ave Display', cursive;
+    font-size: 18px;
+}
+
+.orden1 {
+    display: flex;
+    margin: 30px;
+    padding: 30px;
+    border: #1fc1c7;
+    background-color: #a4508b;
+background-image: url(./page/)
+;
+ j
+ 
+}
+
+.gg {
+    display: flex;
+}
+
+.tet1 {
+    font-size: 17px;
+    font-family: 'Rubik Pixels', cursive;
+    color: aliceblue;
+    margin: 20px;
+}
+
+.par3 {color: #e7ebeb;
+    font-family: 'Dancing Script', cursive;
+    font-size: 20px;
+;
+display: flex;
+
+   
+}
+
+.cuerpo {
+  margin: 20px;
+  padding: 30px;
+
+}
+
+.cuerpos {
+    margin: 10px;
+}
+body { background-color: rgb(53, 50, 50);}
+.dc { color: #e7ebe7;}
+.formulario { width: 200px;
+left: 150px; color: #a40606;
+
+
+}
+.final {
+    background-color: #1fc1c7;
+}
